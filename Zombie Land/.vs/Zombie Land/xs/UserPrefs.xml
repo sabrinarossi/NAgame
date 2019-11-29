@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{A1CB22F6-33C7-E00F-F272-E59C6DF0D8C8}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Alienmove.cs">
+    <Files>
+      <File FileName="Assets/Alienmove.cs" Line="75" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Zombie Land" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="alien character" expanded="True">
+                <Node name="animation" expanded="True" />
+                <Node name="Mesh" expanded="True" />
+              </Node>
+              <Node name="Fantasy Forest Environment Free Sample" expanded="True" />
+              <Node name="Alienmove.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="82a61f18-c6c4-4303-9f9e-4d3a76d58283" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
