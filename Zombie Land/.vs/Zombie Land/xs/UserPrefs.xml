@@ -3,26 +3,10 @@
     <Files>
       <File FileName="Assets/Alienmove.cs" Line="75" Column="1" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="Zombie Land" expanded="True">
-            <Node name="Assets" expanded="True">
-              <Node name="alien character" expanded="True">
-                <Node name="animation" expanded="True" />
-                <Node name="Mesh" expanded="True" />
-              </Node>
-              <Node name="Fantasy Forest Environment Free Sample" expanded="True" />
-              <Node name="Alienmove.cs" selected="True" />
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="82a61f18-c6c4-4303-9f9e-4d3a76d58283" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e32c9605-cc81-4dd6-9632-68ca6d59dacd" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
